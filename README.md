@@ -7,6 +7,6 @@
 ![](https://github.com/AvitiaD128/ceresoFinal/blob/c0aeb8f09f0f87a5978ff88012247bbdf56e9cb4/img/Captura%20de%20pantalla%202023-11-29%20105449.png)
 ![](https://github.com/AvitiaD128/ceresoFinal/blob/0a6147376ae64399bd291c2fdce4f6416dfa495d/img/Captura%20de%20pantalla%202023-11-29%20105505.png)
 ![](https://github.com/AvitiaD128/ceresoFinal/blob/e4e5c2bcdc217d9f45fb2d6ed5194b355f859871/img/Captura%20de%20pantalla%202023-11-29%20105517.png)
-![]()
+![](https://github.com/AvitiaD128/ceresoFinal/blob/6292e2504826d9176748bc4cadb6bb7fdd7998c1/img/Captura%20de%20pantalla%202023-11-29%20105538.png)
 ![]()
 ![]()
